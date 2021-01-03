@@ -1,0 +1,26 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{ 
+    font-size:50px ;
+}
+.name-highlight{
+    color: rgb(0, 255, 0);
+}
+h3{
+    font-size:40px ;
+color: deepskyblue;} 
+.bill-gates{
+    font-size: 25px; 
+    color: rgb(255, 0, 191);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+.half-width img{
+    width: 45%; 
+    height: 5%;
+}
