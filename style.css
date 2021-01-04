@@ -65,15 +65,31 @@ h2{
 
 }
 .single-experience{ width: 800px; 
-    border: 15 px solid blueviolet;
-    padding: 50px; 
-    margin: 20px;
+    border: 30 px solid blueviolet;
+    padding: 35px; 
+    margin: 15px;
     
-    box-shadow: 15px 15px 35px greenyellow; 
-    border-radius: 5px; 
-    height: 60%;
+    box-shadow: 15px 15px 40px gray; 
+    border-radius: 10px; 
+    height: 70%;
+   background-image: url(images/exp-bg.png); 
+   background-repeat: no-repeat; 
+  background-blend-mode: soft-light; 
+  background-color: whitesmoke;
 } 
 p4{
     font-size: 25px;
 }
-   
+#full-stack{
+    border-left: 7px solid; 
+    border-image: linear-gradient(180deg, red, blue); 
+    border-image-slice: 1;
+} 
+#baby-web{
+    border-left: 7px solid ;
+    border-image : linear-gradient(190deg, blue, cyan); 
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+} 
