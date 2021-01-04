@@ -1,26 +1,79 @@
 body{
     font-family: 'Roboto', sans-serif;
+    margin: 0%;
 }
 h1{ 
     font-size:50px ;
 }
-.name-highlight{
-    color: rgb(0, 255, 0);
+.orange-highlight{
+    color: deepskyblue;
+}
+h2{
+    font-size: 40px;
 }
 h3{
     font-size:40px ;
 color: deepskyblue;} 
 .bill-gates{
     font-size: 25px; 
-    color: rgb(255, 0, 191);
+    color: rgb(255, 0, 106);
 }
 .half-width{
     width: 40%;
     float: left;
-    margin-left: 5%;
+    margin-left: 6%;
     padding-left: 3%;
 }
 .half-width img{
     width: 45%; 
     height: 5%;
 }
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
+}
+.link-button{
+    text-decoration: none;
+background-color: tomato;
+background-image: -webkit-linear-gradient(45deg  lightsalmon, tomato);
+    padding: 10px 20px; 
+    border-radius: 10px;
+color: white;
+font-weight: 700; 
+
+}
+.name-nafi{
+    color: lime;
+    font-size: 25px;
+}
+p1{
+    font-size: 22px; 
+color: midnightblue; 
+text-align: left;
+}
+.dream-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right ;
+}
+h2{
+    color: rgb(255, 166, 0); 
+
+}
+.single-experience{ width: 800px; 
+    border: 15 px solid blueviolet;
+    padding: 50px; 
+    margin: 20px;
+    
+    box-shadow: 15px 15px 35px greenyellow; 
+    border-radius: 5px; 
+    height: 60%;
+} 
+p4{
+    font-size: 25px;
+}
+   
