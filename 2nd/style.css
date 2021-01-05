@@ -1,0 +1,80 @@
+body {
+    font-family: 'Hanalei Fill', cursive;
+    padding: 200px;
+    background: rgb(216, 231, 236);
+    margin: 0%;
+  }
+  
+  /* Header/Blog Title */
+  .header {
+    padding: 45px;
+    font-size: 40px;
+    text-align: center;
+   background-color: rgb(57, 167, 125); 
+   border-radius: 50px;
+    
+  }
+  
+  
+  .rightcolumn {
+    float: 110px;
+    width: 20%;
+    padding-right: 20px;
+  }
+ 
+  .fakeimg {
+      background-image:image() -o-repeating-linear-gradient(45deg lightsalmon);
+
+    
+    width: 20%; 
+    border-image: 500px; 
+    border-radius: 100px;
+  }
+  
+  .card {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+    float: left;
+  }
+  
+  footer{ 
+    color: black; 
+text-align: end; 
+float: none;
+  }
+  @media screen and (max-width: 80px) {
+    .leftcolumn, .rightcolumn {
+      width: 45%;
+      padding: 5px;
+    }
+  }
+  p{
+      font-size: 17px;
+      font-weight: bolder ; 
+     text-align: right ;   
+     color: black; 
+   font-family: Georgia, 'Times New Roman', Times, serif;
+  } 
+
+ lol-nafi{
+     height:100px ;
+     width: 10px;
+ }
+ .link-button{
+    text-decoration: none;
+background-color: tomato;
+background-image: -webkit-linear-gradient(  lightsalmon, tomato);
+    padding: 5% 1%; 
+    border-radius: 10px;
+color: white;
+font-weight: 70px; 
+
+}
+  
+  .right{
+    background-color: wheat;
+    padding: 10px;
+padding-left: 20px;
+ float: right;
+  }
