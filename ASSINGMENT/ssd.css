@@ -37,14 +37,14 @@ section{
  
   .clm{
       float: right ;
-
       width: 33.33%; 
-      right: auto;
+      right: 10%;
   }
  .clm img {
      height: 50%; 
      width: 50%;
   right: 50%;
+  margin-left: 0%;
 
  } 
  .write{
@@ -67,7 +67,7 @@ text-align: center
         width: 50%;
         padding: 20px;
         border: 10px solid rgb(57, 22, 182);
-        margin: 20px; 
+        margin: 10%; 
         border-radius: 100px; 
         background-image: url(back.png); 
         position: absolute;
