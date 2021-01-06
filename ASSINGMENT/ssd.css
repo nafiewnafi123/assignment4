@@ -30,12 +30,11 @@ font-weight: 700;
     height: 10%; 
 } 
 section{
-    height: 500px;
-    padding-bottom: 300px; } 
+    height: 50%;
+    padding-bottom: 50%; 
+} 
 
-  {
-      box-sizing:border-box;
-  } 
+ 
   .clm{
       float: right ;
 
@@ -43,9 +42,9 @@ section{
       right: auto;
   }
  .clm img {
-     height: 150px; 
-     width: 500px;
-  right: 200px;
+     height: 50%; 
+     width: 50%;
+  right: 50%;
 
  } 
  .write{
@@ -65,7 +64,7 @@ text-align: center
  }
 
  #one-two{ 
-        width: 800px;
+        width: 50%;
         padding: 20px;
         border: 10px solid rgb(57, 22, 182);
         margin: 20px; 
@@ -73,10 +72,10 @@ text-align: center
         background-image: url(back.png); 
         position: absolute;
        
-        height: 400px;
+        height: 20%;
         top: 0;
-        bottom: -4000px;
-        left: 0;
+        bottom: -480%;
+        left: 5%;
         right: 0;
         margin: auto;
      }
