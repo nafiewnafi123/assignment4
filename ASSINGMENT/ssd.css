@@ -30,18 +30,65 @@ font-weight: 700;
     height: 10%; 
 } 
 section{
-    height: 850px;
-    padding-bottom: 200px; } 
+    height: 500px;
+    padding-bottom: 300px; } 
 
-  .clm{
-      width: 100%;
-      float: left;
-  width: 33.33%; 
-  padding: 3px;
-    } 
   {
       box-sizing:border-box;
   } 
-  .clm img{
-      height: 300px;
+  .clm{
+      float: right ;
+
+      width: 33.33%; 
+      right: auto;
   }
+ .clm img {
+     height: 150px; 
+     width: 500px;
+  right: 200px;
+
+ } 
+ .write{
+     font-size: 35px;
+color: rgb(68, 0, 255); 
+text-align: center; 
+
+font-style: oblique; 
+font-weight: bold ; 
+font-family: fantasy;
+ } 
+ h5{
+font-size: 30px; 
+color: whitesmoke; 
+text-align: center
+; 
+ }
+
+ #one-two{ 
+        width: 800px;
+        padding: 20px;
+        border: 10px solid rgb(57, 22, 182);
+        margin: 20px; 
+        border-radius: 100px; 
+        background-image: url(back.png); 
+        position: absolute;
+       
+        height: 400px;
+        top: 0;
+        bottom: -4000px;
+        left: 0;
+        right: 0;
+        margin: auto;
+     }
+
+     h3{
+font-size: 30px; 
+color: lawngreen;
+text-align: center;
+ }
+p{
+    color: darkslategrey; 
+    font-size: 20px; 
+    font-weight: bold;
+    font-family: serif;
+}
