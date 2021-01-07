@@ -58,7 +58,7 @@ font-family: fantasy;
  } 
  h5{
 font-size: 30px; 
-color: rgb(53, 207, 14); 
+color: rgb(247, 210, 1); 
 text-align: center
 ; 
  }
@@ -88,5 +88,11 @@ p{
     color: darkslategrey; 
     font-size: 20px; 
     font-weight: bold;
-    font-family: serif;
+}
+.ki{ font-size: 15px;
+text-align: center;
+}
+
+section.ya{height: 50%; 
+
 }
