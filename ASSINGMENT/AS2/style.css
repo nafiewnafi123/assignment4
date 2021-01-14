@@ -1,0 +1,53 @@
+
+
+.icon-bar{
+    background: darkorange;
+}
+h1{
+    font-size: 60px; 
+    color: rgb(79, 69, 143);
+    font-weight: bold;
+}
+h3{
+    font-size: 60px;
+    color: tomato;
+}  
+.box{
+    width: 400px;
+    margin: 5px;
+    box-shadow: 0 2px 20px rgb(112, 112, 201);
+    padding: 5px; 
+    border-radius: 15px; 
+    height: 200px;
+    
+    
+    
+}
+.box img{
+    float: left; 
+    width: 100px;
+
+}
+
+#text-size{
+    font-size: 20px;
+    color: black;
+    font-weight: bolder;
+}
+#button-bot{
+font-size: 15px;
+    color:white;
+    font-weight: bolder;
+    background-color: rgb(253, 69, 69);
+background-image: -webkit-linear-gradient(45deg  rgb(218, 118, 25), rgb(0, 240, 240));
+    padding: 10px 20px; 
+    border-radius: 10px;
+}
+#button-bot img{
+    height: 25px;
+    
+}
+.header{
+    background-color: rgb(253, 244, 244);
+    
+}
